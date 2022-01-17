@@ -6,7 +6,7 @@
 Predicting the Readmission of Diabetic Patients
 
 ### Description
-The project analyses the chances of readmission of diabetic patients within a period of 30 days using supervised learning -classification models.
+The project researches on finding out the best supervised learning -classification model which predicts the chances of readmission of diabetic patients within a period of 30 days.
 
 ### File used
 diabetic_data.csv - https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
